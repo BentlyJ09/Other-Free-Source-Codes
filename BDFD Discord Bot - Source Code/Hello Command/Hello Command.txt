@@ -1,1 +1,7 @@
+Trigger: Hello
 
+$nomention
+$reply
+$description[**Hello $username!**]
+
+$ignoreTriggerCase
