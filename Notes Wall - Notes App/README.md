@@ -1,5 +1,5 @@
 **Made By: Jay**
 
-#Socials
+__*Socials*__
 
 **YouTube:** youtube.com/@XJay7
